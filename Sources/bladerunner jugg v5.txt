@@ -1,0 +1,42 @@
+            tendency = Indicators.GetIndicator<CandlestickTendencyII>(GlobalTimeFrame, MinimumGlobalCandleSize);
+            tendency2 = Indicators.GetIndicator<CandlestickTendencyII_2>(GlobalTimeFrame2, MinimumGlobalCandleSize2);
+            //_emaFast = Indicators.ExponentialMovingAverage(Price, FastPeriods);
+            _adx = Indicators.GetIndicator<ADXRSignal>(Source, interval);
+            _heiken = Indicators.GetIndicator<HeikenAshi2>(1);
+            _kama = Indicators.GetIndicator<KAMASignal>(Source, Fast, Slow, Period);
+            Fisher = Indicators.GetIndicator<FisherSignal>(Len);
+            pipsATR = Indicators.GetIndicator<PipsATRIndicator>(TimeFrame, AtrPeriod, AtrMaType);
+            _onBalanceVolume = Indicators.OnBalanceVolume(Source);
+
+also below for indicators above
+
+ADXR
+KAMA(1)
+Fisher Transform
+
+
+Settings for optimization
+GBP pairs best
+USD/CAD good
+
+
+Timeframe = 30min
+Min global Candle = 0
+Stoploss, takeprofit, trailing = YES
+Enter onsync = NO
+Exit on sync = NO
+ADXR Period = 1 - 28
+Trendstrength = 1-30
+Period = 1 (changes nothing)
+Fisher Length = 2 - 30
+TP Factor = 0.1 - 12
+Volatility = 0.1 - 40 (normally around 4-7)
+Trail Factor 1 = 0.1 - 3 (normally 1)
+Trail Factor 2 = 0.1 - 3 (normally 3)
+MM Factor = 100 - 1000 (could be problem with this part - on EU and AU opened 1.2m lot with 1000k balance - has blown my account due to this)
+Kama Period = 1 - 21
+Kama Fast = 1 - 21
+Kama Slow = 25 - 35
+
+Global Time 1 = 2hr
+Global Time 1 = 8hr
