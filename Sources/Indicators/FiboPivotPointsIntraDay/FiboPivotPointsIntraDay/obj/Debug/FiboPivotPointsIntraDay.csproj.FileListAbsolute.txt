@@ -1,0 +1,6 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\FiboPivotPointsIntraDay\FiboPivotPointsIntraDay\bin\Debug\FiboPivotPointsIntraDay.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\FiboPivotPointsIntraDay\FiboPivotPointsIntraDay\bin\Debug\FiboPivotPointsIntraDay.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\FiboPivotPointsIntraDay\FiboPivotPointsIntraDay\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\FiboPivotPointsIntraDay\FiboPivotPointsIntraDay\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\FiboPivotPointsIntraDay\FiboPivotPointsIntraDay\obj\Debug\FiboPivotPointsIntraDay.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\FiboPivotPointsIntraDay\FiboPivotPointsIntraDay\obj\Debug\FiboPivotPointsIntraDay.pdb

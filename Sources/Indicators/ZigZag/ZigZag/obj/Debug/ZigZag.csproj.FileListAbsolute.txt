@@ -1,0 +1,6 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\ZigZag\ZigZag\bin\Debug\ZigZag.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\ZigZag\ZigZag\bin\Debug\ZigZag.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\ZigZag\ZigZag\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\ZigZag\ZigZag\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\ZigZag\ZigZag\obj\Debug\ZigZag.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\ZigZag\ZigZag\obj\Debug\ZigZag.pdb

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAMA Signal", "KAMA Signal\KAMA Signal.csproj", "{2BE3473F-BEA7-4C0F-8C22-1B902646DE2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE3473F-BEA7-4C0F-8C22-1B902646DE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE3473F-BEA7-4C0F-8C22-1B902646DE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE3473F-BEA7-4C0F-8C22-1B902646DE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE3473F-BEA7-4C0F-8C22-1B902646DE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAMA (1)", "..\KAMA (1)\KAMA (1)\KAMA (1).csproj", "{09450C66-7068-4E1E-ABAA-FA0A82F529E6}"
+EndProject

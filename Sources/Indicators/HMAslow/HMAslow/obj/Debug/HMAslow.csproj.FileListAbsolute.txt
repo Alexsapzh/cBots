@@ -1,0 +1,7 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\bin\Debug\HMAslow.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\bin\Debug\HMAslow.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\obj\Debug\HMAslow.csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\obj\Debug\HMAslow.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAslow\HMAslow\obj\Debug\HMAslow.pdb

@@ -1,0 +1,7 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\bin\Debug\HMAfast.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\bin\Debug\HMAfast.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\obj\Debug\HMAfast.csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\obj\Debug\HMAfast.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\HMAfast\HMAfast\obj\Debug\HMAfast.pdb

@@ -1,0 +1,24 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMA HTF Shift", "HMA HTF Shift\HMA HTF Shift.csproj", "{05A0A390-B9CA-4CFC-AE01-BE435568F6CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A0A390-B9CA-4CFC-AE01-BE435568F6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A0A390-B9CA-4CFC-AE01-BE435568F6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A0A390-B9CA-4CFC-AE01-BE435568F6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A0A390-B9CA-4CFC-AE01-BE435568F6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMA HTF", "..\HMA HTF\HMA HTF\HMA HTF.csproj", "{3D06BD04-9C2E-43DD-A8F0-E525B41BA418}"
+EndProject

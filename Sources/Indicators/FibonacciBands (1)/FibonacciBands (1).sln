@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciBands (1)", "FibonacciBands (1)\FibonacciBands (1).csproj", "{FAC83D08-A0BE-43E5-8C89-08485E6E3222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC83D08-A0BE-43E5-8C89-08485E6E3222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC83D08-A0BE-43E5-8C89-08485E6E3222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC83D08-A0BE-43E5-8C89-08485E6E3222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC83D08-A0BE-43E5-8C89-08485E6E3222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average True Range (1)", "..\Average True Range (1)\Average True Range (1)\Average True Range (1).csproj", "{F07B9654-D7DA-4225-8EB2-5E680C038337}"
+EndProject

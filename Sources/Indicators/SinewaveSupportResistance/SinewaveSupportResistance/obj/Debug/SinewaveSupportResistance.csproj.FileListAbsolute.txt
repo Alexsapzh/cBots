@@ -1,0 +1,9 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\bin\Debug\SinewaveSupportResistance.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\bin\Debug\SinewaveSupportResistance.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\bin\Debug\Sinewave.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\bin\Debug\CyclePeriod.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\obj\Debug\SinewaveSupportResistance.csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\obj\Debug\SinewaveSupportResistance.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\SinewaveSupportResistance\SinewaveSupportResistance\obj\Debug\SinewaveSupportResistance.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belkhayate Polynomial Regression", "Belkhayate Polynomial Regression\Belkhayate Polynomial Regression.csproj", "{4D0650A7-72A4-4E02-B633-4880AD68DADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0650A7-72A4-4E02-B633-4880AD68DADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0650A7-72A4-4E02-B633-4880AD68DADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0650A7-72A4-4E02-B633-4880AD68DADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0650A7-72A4-4E02-B633-4880AD68DADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

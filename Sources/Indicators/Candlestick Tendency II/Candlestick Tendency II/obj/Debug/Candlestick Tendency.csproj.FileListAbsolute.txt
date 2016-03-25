@@ -1,0 +1,7 @@
+﻿C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\bin\Debug\Candlestick Tendency.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\bin\Debug\Candlestick Tendency.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\obj\Debug\Candlestick Tendency.csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\obj\Debug\Candlestick Tendency.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Indicators\Candlestick Tendency\Candlestick Tendency\obj\Debug\Candlestick Tendency.pdb
