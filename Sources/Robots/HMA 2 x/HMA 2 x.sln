@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMA 2 x", "HMA 2 x\HMA 2 x.csproj", "{2C2EBB0E-6EDF-4F0B-AD13-503FBF396612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2EBB0E-6EDF-4F0B-AD13-503FBF396612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2EBB0E-6EDF-4F0B-AD13-503FBF396612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2EBB0E-6EDF-4F0B-AD13-503FBF396612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2EBB0E-6EDF-4F0B-AD13-503FBF396612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMA", "..\..\Indicators\HMA\HMA\HMA.csproj", "{CC647428-6F58-4440-BA5F-68BF9DF899AA}"
+EndProject
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "La Tortuga V4 Shift (3) FINAL", "La Tortuga V4 Shift (3) FINAL\La Tortuga V4 Shift (3) FINAL.csproj", "{61F851BE-81F5-4609-8BDC-BFFE78F2A2E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F851BE-81F5-4609-8BDC-BFFE78F2A2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F851BE-81F5-4609-8BDC-BFFE78F2A2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F851BE-81F5-4609-8BDC-BFFE78F2A2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F851BE-81F5-4609-8BDC-BFFE78F2A2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+
+
+
+
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMAFastShift", "..\..\Indicators\HMAFastShift\HMAFastShift\HMAFastShift.csproj", "{05A0A390-B9CA-4CFC-AE01-BE435568F6CE}"
+EndProject
+
+
+

@@ -1,0 +1,7 @@
+﻿C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\bin\Debug\Smart Grid FED SL.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\bin\Debug\Smart Grid FED SL.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\obj\Debug\Smart Grid FED SL.csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\obj\Debug\Smart Grid FED SL.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Smart Grid FED SL\Smart Grid FED SL\obj\Debug\Smart Grid FED SL.pdb

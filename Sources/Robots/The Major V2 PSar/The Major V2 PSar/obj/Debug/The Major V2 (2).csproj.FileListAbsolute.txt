@@ -1,0 +1,19 @@
+﻿C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\The Major V2 (2).dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\The Major V2 (2).pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\Candlestick Tendency.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\HMAfast.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\HMAslow.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\SinewaveSupportResistance.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\ZigZag.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\Sinewave.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\CyclePeriod.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\Candlestick Tendency.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\HMAfast.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\HMAslow.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\SinewaveSupportResistance.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\ZigZag.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\obj\Debug\The Major V2 (2).csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\obj\Debug\The Major V2 (2).dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V2 (2)\The Major V2 (2)\obj\Debug\The Major V2 (2).pdb

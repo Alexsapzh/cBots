@@ -1,0 +1,3 @@
+C:\Users\Paul\Documents\cAlgo\Sources\Robots\ExternalLib\ExternalLib\ClassLibrary1\obj\Debug\ClassLibrary1.externalForm.resources
+C:\Users\Paul\Documents\cAlgo\Sources\Robots\ExternalLib\ExternalLib\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\Paul\Documents\cAlgo\Sources\Robots\ExternalLib\ExternalLib\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trend Analyser", "Trend Analyser\Trend Analyser.csproj", "{4B610F58-26A4-4973-ADA5-ABC54698A9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B610F58-26A4-4973-ADA5-ABC54698A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B610F58-26A4-4973-ADA5-ABC54698A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B610F58-26A4-4973-ADA5-ABC54698A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B610F58-26A4-4973-ADA5-ABC54698A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

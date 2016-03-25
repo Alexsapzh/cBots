@@ -1,0 +1,15 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\Fib Pivot Bot (2).dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\Fib Pivot Bot (2).pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\FiboPivotPointsIntraDay.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\HMAfast.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\HMAslow.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\HMAfast.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\HMAslow.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\FiboPivotPointsIntraDay.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\obj\Debug\Fib Pivot Bot (2).csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\obj\Debug\Fib Pivot Bot (2).dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\obj\Debug\Fib Pivot Bot (2).pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\Fib Pivot Bot (2).dll.CodeAnalysisLog.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\Fib Pivot Bot (2)\Fib Pivot Bot (2)\bin\Debug\Fib Pivot Bot (2).dll.lastcodeanalysissucceeded

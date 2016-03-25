@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagCycleBot (2)", "ZigZagCycleBot (2)\ZigZagCycleBot (2).csproj", "{57D90EAF-8D24-4A56-A2B5-80E003C78032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D90EAF-8D24-4A56-A2B5-80E003C78032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D90EAF-8D24-4A56-A2B5-80E003C78032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D90EAF-8D24-4A56-A2B5-80E003C78032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D90EAF-8D24-4A56-A2B5-80E003C78032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZag", "..\..\Indicators\ZigZag\ZigZag\ZigZag.csproj", "{F4C8AC47-DECF-4920-AC37-1397C1E42F4A}"
+EndProject

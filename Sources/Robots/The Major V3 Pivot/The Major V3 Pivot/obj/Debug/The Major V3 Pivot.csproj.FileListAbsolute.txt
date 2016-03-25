@@ -1,0 +1,19 @@
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\The Major V3 Pivot.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\The Major V3 Pivot.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\cAlgo.API.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\Candlestick Tendency.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\FiboPivotPointsIntraDay.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\HMAfast.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\HMAslow.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\SinewaveSupportResistance.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\Sinewave.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\CyclePeriod.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\Candlestick Tendency.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\HMAfast.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\HMAslow.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\SinewaveSupportResistance.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\FiboPivotPointsIntraDay.pdb
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\bin\Debug\cAlgo.API.xml
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\obj\Debug\The Major V3 Pivot.csprojResolveAssemblyReference.cache
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\obj\Debug\The Major V3 Pivot.dll
+C:\Users\FLIP\Documents\cAlgo\Sources\Robots\The Major V3 Pivot\The Major V3 Pivot\obj\Debug\The Major V3 Pivot.pdb

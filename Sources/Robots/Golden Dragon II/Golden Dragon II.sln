@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golden Dragon II", "Golden Dragon II\Golden Dragon II.csproj", "{C23F3B52-5605-427D-B9C1-D8C4E4FB6169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23F3B52-5605-427D-B9C1-D8C4E4FB6169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23F3B52-5605-427D-B9C1-D8C4E4FB6169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23F3B52-5605-427D-B9C1-D8C4E4FB6169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23F3B52-5605-427D-B9C1-D8C4E4FB6169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+
+
+
+
+
+
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelkhayateTiming", "..\..\Indicators\BelkhayateTiming\BelkhayateTiming\BelkhayateTiming.csproj", "{E02C1F79-4FAA-45D9-93AD-F9E41E75025F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelkhayatePRC", "..\..\Indicators\BelkhayatePRC\BelkhayatePRC\BelkhayatePRC.csproj", "{4D0650A7-72A4-4E02-B633-4880AD68DADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMA", "..\..\Indicators\HMA\HMA\HMA.csproj", "{CC647428-6F58-4440-BA5F-68BF9DF899AA}"
+EndProject
