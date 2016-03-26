@@ -1,0 +1,7 @@
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\bin\Debug\cAlgo.Lib.dll
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\bin\Debug\cAlgo.Lib.pdb
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\bin\Debug\cAlgo.API.dll
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\bin\Debug\cAlgo.API.xml
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\obj\Debug\cAlgo.Lib.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\obj\Debug\cAlgo.Lib.dll
+C:\Users\Paul\Source\Repos\cAlgoBot\Sources\Library\cAlgoLib\obj\Debug\cAlgo.Lib.pdb
